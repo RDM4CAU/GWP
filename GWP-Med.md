@@ -20,7 +20,7 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 "Disclaimer"
 </script>
 
-<center><img src="../GWP-Med/images/2022-03-03_Icon_Lehre.jpg" alt="people standing in front of " height="40%" width="40%"></center>
+<center><img src="../GWP/images/2022-03-03_Icon_Lehre.jpg" alt="people standing in front of " height="40%" width="40%"></center>
 
 <div style="page-break-after: always;"></div>
 
@@ -37,7 +37,7 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 
 ## Workshop Regeln 📝
 
-<img src="../GWP-Med/images/kurzberichte.png" alt="Workshop rules" width="250" align="right">
+<img src="../GWP/images/kurzberichte.png" alt="Workshop rules" width="250" align="right">
 
 - Machen Sie auf sich aufmerksam, wenn Sie etwas sagen wollen.
 - Fragen Sie bei Unklarheiten nach.
@@ -73,7 +73,7 @@ Lernziele:
 
 --->
 
-<img src="../Gute_wissenschaftliche_Praxis/images/img_tipp_2022_CM.jpg" alt="Goals today" width="200" align="right">
+<img src="../GWP/images/img_tipp_2022_CM.jpg" alt="Goals today" width="200" align="right">
 
 Wir möchten mit Ihnen erreichen, dass Sie am Ende des Workshops ...
 
@@ -251,12 +251,12 @@ Lassen Sie uns nochmal gemeinsam sammeln: https://yopad.eu/p/GWP_Medizin_2025
 >
 >Die bekanntesten Richtlinien sind:
 
->![ECoC](../GWP-Med/images/logo_ecoc_2017.png)<!--  width="140px" align="right"
+>![ECoC](../GWP/images/logo_ecoc_2017.png)<!--  width="140px" align="right"
 -->
 >
 >* ALLEA: [European Code of Conduct for Research Integrity (2023)](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf)
 >
->![DFG](../GWP-Med/images/logo_dfg_2019.png)<!--  width="140px" align="right"
+>![DFG](../GWP/images/logo_dfg_2019.png)<!--  width="140px" align="right"
 -->
 
 >* DFG: [Leitlinien zur Sicherung guter wissenschaftlicher Praxis (2025)](https://zenodo.org/records/14281892)
@@ -270,7 +270,7 @@ Der **Europäische Verhaltenskodex für Integrität in der Forschung** ist unter
 
 <div class="pull-right">
 
-![ECoC](../GWP-Med/images/logo_ecoc_2017.png)<!--  width="220px" align="right"
+![ECoC](../GWP/images/logo_ecoc_2017.png)<!--  width="220px" align="right"
 -->
 
 </div>
@@ -350,7 +350,7 @@ Revisionen
 
 ### Die Leitlinien der DFG
 
-![DFG](../GWP-Med/images/logo_dfg_2019.png)<!--  width="160px" align="right"
+![DFG](../GWP/images/logo_dfg_2019.png)<!--  width="160px" align="right"
 -->
 
 Die DFG beschreibt in ihren **Leitlinien zur Sicherung guter wissenschaftlicher Praxis** insgesamt 19 Leitlinien, die in drei Bereiche untergliedert sind:
@@ -434,7 +434,7 @@ Die **Richtlinien der CAU** finden sich hier: https://www.uni-kiel.de/fileadmin/
 {{3-4}}
 ********************************************************************************
 
-![Vergleich zwischen DFG Leitlinen und CAU Richtlinen](../GWP-Med/images/vergleich-dfg-cau.png)
+![Vergleich zwischen DFG Leitlinen und CAU Richtlinen](../GWP/images/vergleich-dfg-cau.png)
 
 ********************************************************************************
 
@@ -898,7 +898,7 @@ Ziele des Ombudwesens
 
 Die CAU hat ein Ombutsteam. Grundsätzlich stehen immer folgende Meldewege zur Verfügung:
 
-![Meldewege](../GWP-Med/images/meldung-verstoss.png)
+![Meldewege](../GWP/images/meldung-verstoss.png)
 
 ********************************************************************************
 
@@ -963,7 +963,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 ### Beispiele für Forschungsdaten
 
-<img src="/images/forschungsdatenBSP.png" width="350" align="right">
+<img src="../GWP/images/forschungsdatenBSP.png" width="350" align="right">
 
 - Audio- und Videoaufzeichnungen
 - Tagebücher
@@ -988,7 +988,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 Lernende können	Phasen des Forschungsdatenlebenszyklus	benennen. (LZ-ID: 01_005_0079)
 --->
 
-<img src="../GWP-Med/images/img_fdm-zyklus_2022_CM.jpg" width="350" align="right">
+<img src="../GWP/images/img_fdm-zyklus_2022_CM.jpg" width="350" align="right">
 
 <P><SMALL>Illustration: Cleo Michelsen, basierend auf dem Forschungsdatenlebenszyklus des UK Data Service</SMALL></P>
 
@@ -996,7 +996,7 @@ Lernende können	Phasen des Forschungsdatenlebenszyklus	benennen. (LZ-ID: 01_005
 
 {{1}}
 ********************************************************************************
-<img src="../GWP-Med/images/img_fdm-zyklus_planung_2021-11-22_CM.jpg" width="150" align="right">
+<img src="../GWP/images/img_fdm-zyklus_planung_2021-11-22_CM.jpg" width="150" align="right">
 
 **Planung**:
 
@@ -1016,7 +1016,7 @@ Lernende können	Phasen des Forschungsdatenlebenszyklus	benennen. (LZ-ID: 01_005
 
 {{2}}
 ********************************************************************************
-<img src="../GWP-Med/images/img_fdm-zyklus_erhebung_2021-11-22_CM.jpg" width="150" align="right">
+<img src="../GWP/images/img_fdm-zyklus_erhebung_2021-11-22_CM.jpg" width="150" align="right">
 
 **Erhebung und Analyse**:
 
@@ -1034,7 +1034,7 @@ Lernende können	Phasen des Forschungsdatenlebenszyklus	benennen. (LZ-ID: 01_005
 {{3}}
 ********************************************************************************
 
-<img src="../GWP-Med/images/img_fdm-zyklus_archivierung_2021-11-22_CM.jpg" width="150" align="right">
+<img src="../GWP/images/img_fdm-zyklus_archivierung_2021-11-22_CM.jpg" width="150" align="right">
 
 **Archivierung & Veröffentlichung**:
 
@@ -1153,7 +1153,7 @@ R1.3. (Meta)data meet domain-relevant community standards
 
 # CARE
 
-![CARE](../GWP-Med/images/Be_FAIR_and_CARE.png "Quelle: GIDA Global Indigenous Data Alliance")
+![CARE](../GWP/images/Be_FAIR_and_CARE.png "Quelle: GIDA Global Indigenous Data Alliance")
 
 * Kollektiver Nutzen (**C**ollective Benefit): Datenökosysteme müssen so gestaltet sein und funktionieren, dass indigene Völker einen Nutzen aus den Daten ziehen können.
 
@@ -1183,7 +1183,7 @@ In der nachfolgenden Tabelle ist exemplarisch am Europäischen Verhaltenskodex f
 
 ## FDM & GWP 📽️
 
-<img src="../GWP-Med/images/kurzberichte.png" width="150" align="right">
+<img src="../GWP/images/kurzberichte.png" width="150" align="right">
 
 **Wir schauen uns ein kurzes Video an. Dies verdeutlicht nochmal die Gründe, warum Forschungsdatenmanagement wichtig für eine reproduzierbare und nachhaltig nutzbare Forschung und Teil guter wissenschaftlicher Praxis ist.**
 
@@ -1282,7 +1282,7 @@ https://www.medizin.uni-kiel.de/de/fakultaet/ethik-kommission
 ***********
 
 <div style="width: 50%; float:right">
-![services](../GWP-Med/images/rdmCAU.png)
+![services](../GWP/images/rdmCAU.png)
 </div>
 
 website: https://www.fdm.uni-kiel.de/de
@@ -1296,7 +1296,7 @@ e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
 **Beratung**
 
 <div style="width: 20%; float:right">
-![working](../GWP-Med/images/rdmCAU.png)
+![working](../GWP/images/rdmCAU.png)
 </div>
 
 * Antragsberatung
@@ -1315,7 +1315,7 @@ e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
 **Unterstützung bei Training & Lehre**
 
 <div style="width: 20%; float:right">
-![working](../GWP-Med/images/rdmCAU.png)
+![working](../GWP/images/rdmCAU.png)
 </div>
 
 * Workshops
@@ -1334,7 +1334,7 @@ e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
 **FDM Infrastruktur**
 
 <div style="width: 20%; float:right">
-![working](../GWP-Med/images/rdmCAU.png)
+![working](../GWP/images/rdmCAU.png)
 </div>
 
 * FDM Services
@@ -1350,7 +1350,7 @@ e-mail: <a href="info@fdm.uni-kiel.de">info@fdm.uni-kiel.de  </a>
 **Networking**
 
 <div style="width: 20%; float:right">
-![working](../GWP-Med/images/rdmCAU.png)
+![working](../GWP/images/rdmCAU.png)
 </div>
 
 * lokale Netzwerke an der CAU durch die [AG FDM](https://www.datamanagement.uni-kiel.de/en/networking?set_language=en)
