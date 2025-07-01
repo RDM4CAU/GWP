@@ -6,7 +6,7 @@ version:  0.1.0
 language: de
 narrator: UK English Female
 
-icon:     ../GWP/images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
+icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
 comment:  This document provides an introduction to research data management and good scientific practice. 
 
@@ -20,7 +20,7 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 "Disclaimer"
 </script>
 
-<center><img src="../GWP/images/2022-03-03_Icon_Lehre.jpg" alt="people standing in front of " height="40%" width="40%"></center>
+<center><img src="images/2022-03-03_Icon_Lehre.jpg" alt="people standing in front of " height="40%" width="40%"></center>
 
 <div style="page-break-after: always;"></div>
 
