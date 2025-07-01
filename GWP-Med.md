@@ -1051,7 +1051,7 @@ Lernende können	Phasen des Forschungsdatenlebenszyklus	benennen. (LZ-ID: 01_005
 {{4}}
 ********************************************************************************
 
-<img src="" width="150" align="right">
+<img src="images/img_fdm-zyklus_nachnutzung_2021-11-22_CM.jpg" width="150" align="right">
 
 **Nachnutzung**:
 
